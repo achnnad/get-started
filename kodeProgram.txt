@@ -1,4 +1,6 @@
 kode 1
+ buat login
+ buat ooauth
 kode 2
 kode 3
 kode 4
